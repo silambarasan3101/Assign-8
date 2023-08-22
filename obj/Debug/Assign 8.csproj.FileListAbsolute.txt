@@ -1,0 +1,13 @@
+E:\car\22-8-23-SQL\Assign 8\Assign 8\Assign 8\bin\Debug\Assign 8.exe.config
+E:\car\22-8-23-SQL\Assign 8\Assign 8\Assign 8\bin\Debug\Assign 8.exe
+E:\car\22-8-23-SQL\Assign 8\Assign 8\Assign 8\bin\Debug\Assign 8.pdb
+E:\car\22-8-23-SQL\Assign 8\Assign 8\Assign 8\bin\Debug\EntityFramework.dll
+E:\car\22-8-23-SQL\Assign 8\Assign 8\Assign 8\bin\Debug\EntityFramework.SqlServer.dll
+E:\car\22-8-23-SQL\Assign 8\Assign 8\Assign 8\bin\Debug\EntityFramework.xml
+E:\car\22-8-23-SQL\Assign 8\Assign 8\Assign 8\bin\Debug\EntityFramework.SqlServer.xml
+E:\car\22-8-23-SQL\Assign 8\Assign 8\Assign 8\obj\Debug\Assign 8.csproj.AssemblyReference.cache
+E:\car\22-8-23-SQL\Assign 8\Assign 8\Assign 8\obj\Debug\Assign 8.csproj.SuggestedBindingRedirects.cache
+E:\car\22-8-23-SQL\Assign 8\Assign 8\Assign 8\obj\Debug\Assign 8.csproj.CoreCompileInputs.cache
+E:\car\22-8-23-SQL\Assign 8\Assign 8\Assign 8\obj\Debug\Assign 8.csproj.CopyComplete
+E:\car\22-8-23-SQL\Assign 8\Assign 8\Assign 8\obj\Debug\Assign 8.exe
+E:\car\22-8-23-SQL\Assign 8\Assign 8\Assign 8\obj\Debug\Assign 8.pdb
